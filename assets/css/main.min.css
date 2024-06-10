@@ -126,7 +126,7 @@ body,button {
   border-color: #c3d0fa;
 }
 .input-field--separator-sky path[stroke] {
-  stroke: #4338ca;
+  stroke: #2787B1;
 }
 .input-field--error {
   z-index: 1;
@@ -1029,13 +1029,13 @@ html.dark .modal-share__textarea {
 }
 .button--copy:hover:not(:disabled):not(:active),
 .button--primary:hover:not(:disabled):not(:active) {
-  background-color: #4338ca;
+  background-color: #2787B1;
 }
 .button--copy:active,
 .button--primary:active {
   transition: 0s;
-  background-color: #6366f1;
-  border-color: #6366f1;
+  background-color: #2787B1;
+  border-color: #2787B1;
 }
 .button--copy {
   height: 42px;
@@ -1135,7 +1135,7 @@ html.dark .button--secondary {
 }
 .calculator-content--basic button:not(.button-switcher).indigo:hover,
 .calculator-content--scientific button:not(.button-switcher).indigo:hover {
-  background-color: #4338ca;
+  background-color: #2787B1;
 }
 .calculator-content--basic button:not(.button-switcher).indigo:active,
 .calculator-content--scientific button:not(.button-switcher).indigo:active {
@@ -1276,8 +1276,8 @@ html.dark
 }
 html.dark .calculator-content--basic button:not(.button-switcher).action,
 html.dark .calculator-content--scientific button:not(.button-switcher).action {
-  border-color: #4338ca;
-  background-color: #4338ca;
+  border-color: #2787B1;
+  background-color: #2787B1;
 }
 html.dark .calculator-content--basic button:not(.button-switcher).action:active,
 html.dark .calculator-content--basic button:not(.button-switcher).action:hover,
@@ -1288,7 +1288,7 @@ html.dark
   .calculator-content--scientific
   button:not(.button-switcher).action:hover {
   border-color: #a5b4fc;
-  background-color: #4338ca;
+  background-color: #2787B1;
 }
 html.dark .calculator-content--basic button:not(.button-switcher).action-dark,
 html.dark
@@ -1829,13 +1829,13 @@ html.dark .header-nav__link--main:hover {
   background: #f9fafb;
 }
 .header-popup__button--active {
-  color: #6366f1 !important;
+  color: #2787B1 !important;
 }
 .header-popup__button--active path[stroke] {
-  stroke: #6366f1;
+  stroke: #2787B1;
 }
 .header-popup__button--active path[fill] {
-  fill: #6366f1;
+  fill: #2787B1;
 }
 .header-popup--main {
   background: #374151;
@@ -1968,7 +1968,7 @@ html.dark .header-line {
   background-color: #4b5563;
 }
 .header-lang__select--active {
-  color: #6366f1;
+  color: #2787B1;
 }
 html.dark .header-lang {
   color: #fff;
@@ -1993,7 +1993,7 @@ html.dark .header-lang__select:hover {
   background-color: #4b5563;
 }
 html.dark .header-lang__select--active {
-  color: #6366f1;
+  color: #2787B1;
 }
 .footer {
   background-color: #1f2937;
@@ -2367,7 +2367,7 @@ html.dark .intro__calculator .calculator-content {
   font-weight: 600;
   color: #fff;
   border-radius: 10px;
-  background: #6366f1;
+  background: #2787B1;
 }
 .intro-link__text {
   display: flex;
@@ -2569,13 +2569,13 @@ html.dark .calculators-category__title {
   transition: 0.15s ease;
 }
 .calculator-category__link:hover {
-  color: #4338ca;
+  color: #2787B1;
 }
 html.dark .calculator-category__link {
-  color: #6366f1;
+  color: #2787B1;
 }
 html.dark .calculator-category__link:hover {
-  color: #4338ca;
+  color: #2787B1;
 }
 .company__container {
   margin: 0 auto;
@@ -4701,7 +4701,7 @@ html.dark .dice-point {
   justify-content: center;
   background: #eef2ff;
   outline: 1px solid #c3d0fa;
-  color: #4338ca;
+  color: #2787B1;
   font-size: 1.5rem;
   line-height: 2rem;
   width: 35px;
@@ -4721,11 +4721,11 @@ html.dark .dice-point {
 }
 html.dark .fraction-button {
   background: #2BA8E0;
-  outline-color: #4338ca;
+  outline-color: #2787B1;
   color: #fff;
 }
 html.dark .fraction-button:hover {
-  background: #4338ca;
+  background: #2787B1;
 }
 html.dark .fraction-button--only {
   background: #374151;
@@ -5014,7 +5014,7 @@ html.dark .calculator-about__wrapper {
   padding: 0 !important;
 }
 .calculator-about > ol:nth-child(2) li:hover {
-  color: #4338ca;
+  color: #2787B1;
 }
 .calculator-about > ol:nth-child(2) ol {
   padding-top: 0 !important;
@@ -5024,7 +5024,7 @@ html.dark .calculator-about__wrapper {
   color: #2BA8E0;
 }
 .calculator-about a:hover {
-  color: #4338ca;
+  color: #2787B1;
 }
 .calculator-about li {
   padding-left: 0.375em;
@@ -5538,7 +5538,7 @@ html.dark .page-about {
   transition: 0.15s;
 }
 .about a:hover {
-  color: #4338ca;
+  color: #2787B1;
 }
 .about strong {
   color: #111827;
@@ -5849,7 +5849,7 @@ html.dark .contacts-address__text {
   border-radius: 6px;
 }
 .not-found__link:hover {
-  background: #4338ca;
+  background: #2787B1;
 }
 html.dark .not-found {
   background: #1f2937;
